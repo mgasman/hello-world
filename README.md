@@ -1,7 +1,4 @@
 # hello-world
 In training
 
-Hello -
-Maybe someday my daughter will see this and realize that I tried to dabble in something that she has mastered.
-
-I came accross GitHub because it was used to display some good COVID information!
+I need to figure out what I can use this for - could be interesting contributing to the programming, dust off the dBase knowledge I had from 1986!
